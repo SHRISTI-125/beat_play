@@ -8,7 +8,7 @@ Beat Play offers a user friendly interface, easy navigation, and the features yo
 </ul>
 
 ## 🚀 Demo
-Check out the live demo here : https://shristi-125.github.io/beat_play/
+Check out the live demo here : [Project](https://shristi-125.github.io/beat_play/)
 
 ## 🛠️ Tech Stack
 <ul>
