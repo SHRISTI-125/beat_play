@@ -3,8 +3,8 @@ Beat Play offers a user friendly interface, easy navigation, and the features yo
 
 ## 📑 Features
 <ul>
-  <ol>Selected Song : Collection of fewer favourite song in order to avoid confusion.</ol>
-  <ol>Better UI : Simple, user friendly UI.</ol>
+  <li>Selected Song : Collection of fewer favourite song in order to avoid confusion.</li>
+  <li>Better UI : Simple, user friendly UI.</li>
 </ul>
 
 ## 🚀 Demo
